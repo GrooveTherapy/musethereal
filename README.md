@@ -1,4 +1,7 @@
 #Musethereal
+
+###[See it in action!](https://www.youtube.com/watch?v=KzFbf7iRgXo)
+
 ##Overview
 
 This repository contains code for the [MakeFashion](http://www.makefashion.ca/) project known as Musethereal. 
