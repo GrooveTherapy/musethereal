@@ -1,6 +1,7 @@
 #Musethereal
 
 ###[See it in action!](https://www.youtube.com/watch?v=KzFbf7iRgXo)
+###[See it on CBC!](http://www.cbc.ca/beta/news/canada/calgary/calgary-fashion-technology-3d-1.3515294)
 
 ##Overview
 
