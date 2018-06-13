@@ -1,16 +1,16 @@
-#Musethereal
+# Musethereal
 
-###[See it in action!](https://www.youtube.com/watch?v=KzFbf7iRgXo)
-###[See it on CBC!](http://www.cbc.ca/beta/news/canada/calgary/calgary-fashion-technology-3d-1.3515294)
+### [See it in action!](https://www.youtube.com/watch?v=KzFbf7iRgXo)
+### [See it on CBC!](http://www.cbc.ca/beta/news/canada/calgary/calgary-fashion-technology-3d-1.3515294)
 
-##Overview
+## Overview
 
 This repository contains code for the [MakeFashion](http://www.makefashion.ca/) project known as Musethereal. 
 Musethereal is a dress modelled after the [neuron](https://en.wikipedia.org/wiki/Neuron). This repository contains the code for the conceptual dendrites, responding to the position of the accelerometer tilt.
 
 ![alt text](https://raw.githubusercontent.com/GrooveTherapy/musethereal/master/musetherealfull.jpg "Musethereal")
 
-##Technology Stack
+## Technology Stack
 Musethereal uses:
 
 1. The [Emotiv EPOC+ EEG Headset](https://emotiv.com/epoc.php) to pull activity from the brain
